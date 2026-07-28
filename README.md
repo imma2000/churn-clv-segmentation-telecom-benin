@@ -50,4 +50,4 @@ Python (pandas, numpy, scikit-learn, XGBoost, SHAP) · Power BI (DAX) · Google 
 
 ##  Auteure
 
-AGO Parfaite Marie Immaculée — Master 2 Intelligence Artificielle et Big Data (PIGIER Bénin, mention très bien)
+AGO Parfaite Marie Immaculée — Data scientist junior
