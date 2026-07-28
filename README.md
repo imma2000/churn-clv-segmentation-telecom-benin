@@ -32,10 +32,10 @@ Python (pandas, numpy, scikit-learn, XGBoost, SHAP) · Power BI (DAX) · Google 
 
 ##  Aperçu du dashboard
 
-![Vue d'ensemble](dashboard/dashboard_screenshots/01_vue_ensemble.png)
-![Analyse du Churn](dashboard/dashboard_screenshots/02_analyse_churn.png)
-![Présent](dashboard/dashboard_screenshots/03_present.png)
-![Futur](dashboard/dashboard_screenshots/04_futur.png)
+![Vue d'ensemble](01- vue d'ensemble.png)
+![Analyse du Churn](02- Analyse du churn.png)
+![Présent](03- Présent.png)
+![Futur](04- Futur.png)
 
 ##  Limites du projet
 
